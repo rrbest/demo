@@ -1,2 +1,1 @@
-This is a README! It's for my Github repo demo.
-This is an addition
+This is the tutorial I followed: https://openclassrooms.com/courses/manage-your-code-with-git-and-github
